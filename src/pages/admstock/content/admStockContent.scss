@@ -1,0 +1,22 @@
+.stockList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.label {
+    font-size: large;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.editButton {
+    margin-bottom: 10px;
+
+    Button {
+        width: 142px;
+    }
+}

@@ -1,0 +1,24 @@
+.app-header {
+    height: 70px;
+    background-color: #ebebeb;
+    padding: 2px;
+    padding-left: 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// .header-logo {
+//     width: 60px;
+//     height: 60px;
+//     margin-top: 3px;
+//     margin-left: 3px;
+// }
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
+
+.header-search{
+    margin-left: 35px;
+}
